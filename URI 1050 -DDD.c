@@ -4,7 +4,7 @@ int main()
     int num;
     scanf("%d", &num);
 
-    if (num == 64)
+    if (num == 61)
     {
         printf("Brasilia\n");
     }
